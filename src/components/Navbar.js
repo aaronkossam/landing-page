@@ -32,7 +32,7 @@ const Navbar = () => {
           />
         </div>
         <div>
-          <h1 className=" font-primary font-bold pl-2 lg:-ml-96  pr-5 text-3xl text-center mt-2 mb-2 ">
+          <h1 className=" font-primary font-bold pl-2 lg:-ml-96  pr-5 text-2xl text-center mt-2 mb-2 ">
             All your files in one secure location, accessible anywhere.
           </h1>
           <p className=" font-primary text-xm text-center  ">
@@ -43,9 +43,9 @@ const Navbar = () => {
           </p>
           <input
             placeholder="Enter your email"
-            className="  outline outline-slate-400 ml-8 pr-14 pl-12 pt-2 pb-4 mt-2 rounded-md "
+            className="  outline outline-slate-400 ml-3 pr-14 pl-12 pt-2 pb-4 mt-2 rounded-md "
           ></input>
-          <button className=" pr-28 pl-28  ml-8 font-primary font-bold bg-cyan-500  text-sm  mb-3 rounded-md text-white pt-3 pb-3 mt-6  ">
+          <button className=" pr-28 pl-28  ml-3 font-primary font-bold bg-cyan-500  text-sm  mb-3 rounded-md text-white pt-3 pb-3 mt-6  ">
             {" "}
             Get Started
           </button>
@@ -119,9 +119,9 @@ const Navbar = () => {
         <div className=" lg:grid lg:ml-32 lg:mr-32">
           <input
             placeholder="Enter your email"
-            className="  ml-10 pr-14 pl-12 pt-2 pb-4 mt-6 rounded-md "
+            className="  ml-3 pr-14 pl-12 pt-2 pb-4 mt-6 rounded-md "
           ></input>
-          <button className=" pr-28 pl-20 ml-10  font-primary font-bold bg-cyan-500  text-sm  mb-3 rounded-md text-white pt-3 pb-3 mt-6  lg:mr-44 ">
+          <button className=" pr-28 pl-20 ml-2  font-primary font-bold bg-cyan-500  text-sm  mb-3 rounded-md text-white pt-3 pb-3 mt-6  lg:mr-44 ">
             {" "}
             Get Started Fr free
           </button>
